@@ -3,7 +3,7 @@ const cluePauseTime = 333;
 const nextClueWaitTime = 1000;
 
 //Global Variables
-var pattern = [2, 2, 4, 3, 2, 1, 2, 4];
+var pattern = [3, 2, 4, 1, 2, 1, 2, 4, 5, 1, 3];
 var progress = 0;
 var gamePlaying = false;
 var tonePlaying = false;
@@ -47,10 +47,10 @@ function playSingleClue(btn){
 
 function playClueSequence(){
   guessCounter = 0;
-  let delay = nextClueWaitTime; //set delay to initial wait time
-  for(let i=0;i<=progress;i++){ // for each clue that is revealed so far
+  let delay = nextClueWaitTime; 
+  for(let i=0;i<=progress;i++){ 
     console.log("play single clue: " + pattern[i] + " in " + delay + "ms")
-    setTimeout(playSingleClue,delay,pattern[i]) // set a timeout to play that clue
+    setTimeout(playSingleClue,delay,pattern[i]) 
     delay += clueHoldTime 
     delay += cluePauseTime;
   }
@@ -75,26 +75,19 @@ function guess(btn){
     return;
   }
   
-  // add game logic here
-  
-      if(pattern[guessCounter] == btn){
+if(pattern[guessCounter] == btn){
     //Guess was correct!
-    if(guessCounter == progress){
-      if(progress == pattern.length - 1){
-        //GAME OVER: WIN!
-        winGame();
-      }else{
-        //Pattern correct. Add next segment
-        progress++;
-        playClueSequence();
+  if(guessCounter == progress){
+    if(progress == pattern.length - 1){
+      winGame();
+    }else{
+      progress++;
+      playClueSequence();
       }
     }else{
-      //so far so good... check the next guess
       guessCounter++;
-    }
-  }else{
-    //Guess was incorrect
-    //GAME OVER: LOSE!
+  }
+   }else{
     loseGame();
   }
 }
