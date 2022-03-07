@@ -152,6 +152,14 @@ button {
   background: yellow;
 }
 
+#button5 {
+  background: orange;
+}
+
+#button5:active, #button5.lit {
+  background: purple;
+}
+
 /* Page structure */
 .wrapper {
   min-height: var(--wrapper-height);
@@ -190,7 +198,6 @@ button {
 }
 
 /* Button - Add it from the README instructions */
-button,
 input {
   font-family: inherit;
   font-size: 100%;
