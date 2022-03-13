@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![Lose Game](![lose_game]()
 )
-![Win Game](![win_game](https://github.com/NAbdikodirov/MemoryGame/blob/main/win_game.gif)
+![Win Game](![win_game](win_game.gif)
 )
 ![](gif3-link-here)
 ![](gif4-link-here)
