@@ -52,13 +52,13 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 [I have solely relied on my understanding of HTML, CSS and JS to show how is my level, and for some parts I went theough the process with Codepath Video Walkthrough.]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[To be honest]
+[To be honest, technical side of it was not hard as the help of Glitch was tramendous during the process - easy to run the code and see how it is going. I found it a bit challanging in JS functions, more of the logic of the game. Other than that, everything went smooth. I had to get back to some of old YouTube videos I have watched to learn JS to overcome it. Several drafts it took to run it.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[I have several questions now to ask from myself when it comes to web development. Since we created this game in HTML, CSS and JS that can be played over the sreen with the browser, I want to know how to create the exact same game with those tools on mobile apps and how to program the logic and put inside of the gaming tools like tetris and related tools to play Memory game. And is it possible to code games in HTML, CSS and JS in app versions - I personally think no, but the way to find out to learn from trusted sources and practice. I am enrolled in Codepath Android course as well, and started to understand how most of the apps we are using on a daily basis work.]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[If i had few more hours to work on this project, I would probably change the shape of the buttons and add more of them. To be honest, it seems my memory is not good enough, as I found quite challanging to win the game during recording process so I had to elaminate several steps of the game to record. If there are wide range of colors and different shapes of the buttons, the player finds it quite challanging and interesting at the same time to play and his/her capability to remember things will increase - the player may remember by the color or shape of the button. For the function-wise, I would set up a timer in JS, and display it in HTML so the player will rush as the time is about to end, and increase the speed. Having them all in this game would help the program to be more efficient and valuable.]
 
 
 
