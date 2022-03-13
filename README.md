@@ -4,7 +4,7 @@
 
 Submitted by: **Nurillo Abdikodirov**
 
-Time spent: **7** hours spent in total
+Time spent: **10** hours spent in total
 
 Link to project: (https://glitch.com/edit/#!/tiny-future-light)
 
