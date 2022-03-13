@@ -41,7 +41,8 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![Lose Game](![lose_game]()
 )
-![Win Game](![win_game](win_game.gif)
+![Win Game](https://user-images.githubusercontent.com/59973492/158065222-0d0ef6aa-9914-48f7-a79d-e48f67255a81.gif)
+)
 )
 ![](gif3-link-here)
 ![](gif4-link-here)
