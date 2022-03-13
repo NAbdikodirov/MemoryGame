@@ -39,9 +39,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![Lose Game](![lose_game](https://user-images.githubusercontent.com/59973492/158064842-be5652db-02c3-41dd-9154-5e215e9a06ff.gif)
+![Lose Game](![lose_game]()
 )
-![Win Game](![win_game](win)
+![Win Game](![win_game](https://github.com/NAbdikodirov/MemoryGame/blob/main/win_game.gif)
 )
 ![](gif3-link-here)
 ![](gif4-link-here)
