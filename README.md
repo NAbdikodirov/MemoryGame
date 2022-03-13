@@ -39,17 +39,19 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
+![Lose Game](![lose_game](https://user-images.githubusercontent.com/59973492/158064842-be5652db-02c3-41dd-9154-5e215e9a06ff.gif)
+)
+![Win Game](![win_game](https://user-images.githubusercontent.com/59973492/158064857-abdd4674-3a06-4c65-85e5-feec7786caee.gif)
+)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[Codepath Video Walkthrough]
+[I have solely relied on my understanding of HTML, CSS and JS to show how is my level, and for some parts I went theough the process with Codepath Video Walkthrough.]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+[To be honest]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
@@ -66,7 +68,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Nurillo Abdikodirov]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
